@@ -1,5 +1,5 @@
 
-camere are init with the mode "MODE_9_15FPS_700"
+Camere are init with the mode "MODE_9_15FPS_700"
 
 
 
